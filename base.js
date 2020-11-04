@@ -37,12 +37,12 @@ Os CPFs são:
 
 const  ips  =  `
 Os Ips são:
-   0.0.0.0
-   192.168.0.25
-        10.10.5.12
-        10.01.10.20 (ESTE IP NÃO É VÁLIDO)
-        10.021.08.20 (ESTE IP NÃO É VÁLIDO)
-   255.255.255.255
+  0.0.0.0
+  192.168.0.25
+  10.10.5.12
+  10.01.10.20 (ESTE IP NÃO É VÁLIDO)
+  10.021.08.20 (ESTE IP NÃO É VÁLIDO)
+  255.255.255.255
 ` ;
 
 module.exports = {
