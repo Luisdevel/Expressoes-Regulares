@@ -35,6 +35,12 @@ Os CPFs são:
   963.987.32-00 (NÃO VÁLIDO)
 ` ;
 
+const cpfs2 = `
+254.224.877-45
+215.978.456-12
+047.258.369-96
+963.987.32a.00`;
+
 const  ips  =  `
 Os Ips são:
   0.0.0.0
@@ -51,5 +57,6 @@ module.exports = {
     html,
     alfabeto,
     cpfs,
+    cpfs2,
     ips
 }
